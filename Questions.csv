@@ -1,0 +1,25 @@
+,Survey questions
+D1,Gender
+D2,Age
+D3,Type of organization worked in
+D4,Position
+D5,Experience (years)
+D6,Number of projects participated in
+,
+Q1,"According to my experience, IT projects usually fail."
+Q2,"In my experience, IT projects are usually delivered on time."
+Q3,"In my experience, IT projects usually fulfil the customer's expectations."
+Q4,"In my experience, IT projects usually add value."
+Q5,Changing customer expectations contribute to IT project failure.
+Q6,Unclear aims and objectives contribute to IT project failure.
+Q7,Client-project team miscommunication contributes to IT project failure.
+Q8,Inexperienced project managers contribute to the failure of the IT project.
+Q9,Uncommitted team members contribute to the failure of the IT project.
+Q10,Strong project management skills are essential for project success.
+Q11,Understanding of technical aspects by the project manager is crucial for success.
+Q12,Effective project owner-developer team communication is essential for success.
+Q13,Project owner's support and understanding significantly influence project success.
+,
+Open-ended,"Based on your personal experience in the IT industry, describe the most significant reasons you have observed for IT project failures. Include specific examples if possible and elaborate on how these factors contributed to the project's lack of success."
+,
+Likert scale,"1: Strongly disagree, 2: Disagree, 3: Neither agree nor disagree, 4: Agree, 5: Strongly agree"
